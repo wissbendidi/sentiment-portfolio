@@ -17,12 +17,19 @@ This project demonstrates how to leverage social media sentiment from Twitter to
 ## Project Structure
 
 ├── .gitignore
+
 ├── app.py # Main script to run all steps sequentially
+
 ├── portfolio.py # Mock portfolio data and functions
+
 ├── requirements.txt # Python dependencies
+
 ├── scraper.py # Twitter scraping functionality
+
 ├── sentiment.py # Sentiment analysis processing
+
 ├── sentiment_portfolio.ipynb # Interactive notebook for exploration
+
 └── visualize.py # Visualization of sentiment data
 
 
