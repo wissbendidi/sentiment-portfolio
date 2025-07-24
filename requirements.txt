@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+plotly
+snscrape
+transformers
+torch
